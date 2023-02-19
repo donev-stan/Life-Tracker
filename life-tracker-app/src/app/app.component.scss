@@ -1,0 +1,15 @@
+::ng-deep p-card {
+  .p-card-header {
+    text-align: center;
+  }
+
+  .p-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .p-card-footer {
+    text-align: end;
+  }
+}
